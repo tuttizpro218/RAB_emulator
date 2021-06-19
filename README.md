@@ -9,5 +9,6 @@ RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use
 2. Install Bluestacks.
 3. Open Instances.
 ![Screenshot](https://i.imgur.com/Urj6Vd4.png)
+4. You will get this window.![Screenshot](https://i.imgur.com/KYxZ7kG.png)
 5. You need pgsharp. (http://www.pgsharp.com)
 6. You need RAB.
