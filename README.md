@@ -9,7 +9,7 @@ RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use
 2. Install Bluestacks.
 3. Open Instances.
 ![Screenshot](https://i.imgur.com/Urj6Vd4.png)
-4. You will get this window.
+4. You will get this window. (you don't need to log in to gmail account, and you get a short tutorial)
 ![Screenshot](https://i.imgur.com/KYxZ7kG.png)
 5. Go to the settings.
 ![Screenshot](https://i.imgur.com/S09DopP.png)
@@ -23,5 +23,7 @@ RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use
 ![Screenshot](https://i.imgur.com/0meCHmA.png)
 10. Go to Preferences, then scroll to the middle part, and check Enable Android Debug Bridge (ADB).
 ![Screenshot](https://i.imgur.com/28BL0mL.png)
-12. You need pgsharp. (http://www.pgsharp.com)
-13. You need RAB.
+12. Now you need to download pgsharp. (https://www.pgsharp.com/download)
+13. Install PGSHARP.apk to Bluestacks (just dubleclick on the PGSHARP.apk)
+14. You need to press on My games and you will see this:
+![Screenshot](https://i.imgur.com/ZRXv93q.png)
