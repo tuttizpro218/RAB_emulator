@@ -13,5 +13,9 @@ RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use
 ![Screenshot](https://i.imgur.com/KYxZ7kG.png)
 5. Go to the settings.
 ![Screenshot](https://i.imgur.com/S09DopP.png)
-7. You need pgsharp. (http://www.pgsharp.com)
-8. You need RAB.
+6. Go to Display.
+![Screenshot](https://i.imgur.com/TzsucCg.png)
+7. Change the Setting like this:
+![Screenshot](https://i.imgur.com/ZSdIEZC.png)
+9. You need pgsharp. (http://www.pgsharp.com)
+10. You need RAB.
