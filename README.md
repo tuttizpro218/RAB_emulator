@@ -22,6 +22,6 @@ RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use
 9. Now you need to go here:
 ![Screenshot](https://i.imgur.com/0meCHmA.png)
 10. Go to Preferences, then scroll to the middle part, and check Enable Android Debug Bridge (ADB).
-![Screenshot](https://i.imgur.com/0meCHmA.png)
+![Screenshot](https://i.imgur.com/28BL0mL.png)
 12. You need pgsharp. (http://www.pgsharp.com)
 13. You need RAB.
