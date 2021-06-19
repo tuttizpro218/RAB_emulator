@@ -9,7 +9,7 @@ RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use
 2. Install Bluestacks.
 3. Open Instances.
 ![Screenshot](https://i.imgur.com/Urj6Vd4.png)
-4. You will get this window. (you don't need to log in to gmail account, and you get a short tutorial)
+4. You will get this window.
 ![Screenshot](https://i.imgur.com/KYxZ7kG.png)
 5. Go to the settings.
 ![Screenshot](https://i.imgur.com/S09DopP.png)
@@ -17,7 +17,7 @@ RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use
 ![Screenshot](https://i.imgur.com/TzsucCg.png)
 7. Change the Setting like this:
 ![Screenshot](https://i.imgur.com/ZSdIEZC.png)
-8. If you did everything good, you get this:
+8. If you did everything good, you get this: (you don't need to log in to gmail account, and you get a short tutorial)
 ![Screenshot](https://i.imgur.com/Z9W9BNb.png)
 9. Now you need to go here:
 ![Screenshot](https://i.imgur.com/0meCHmA.png)
