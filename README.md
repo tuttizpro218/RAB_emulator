@@ -23,7 +23,13 @@ RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use
 ![Screenshot](https://i.imgur.com/0meCHmA.png)
 10. Go to Preferences, then scroll to the middle part, and check Enable Android Debug Bridge (ADB).
 ![Screenshot](https://i.imgur.com/28BL0mL.png)
-12. Now you need to download pgsharp. (https://www.pgsharp.com/download)
-13. Install PGSHARP.apk to Bluestacks (just dubleclick on the PGSHARP.apk)
-14. You need to press on My games and you will see this:
+11. Now you need to download pgsharp. (https://www.pgsharp.com/download)
+12. Install PGSHARP.apk to Bluestacks (just dubleclick on the PGSHARP.apk)
+13. You need to press on My games and you will see this:
 ![Screenshot](https://i.imgur.com/ZRXv93q.png)
+14. Start Pokemon GO and login to your account. (LOGIN WITH GOOGLE IS NOT WORKING!)
+14. You need to download RAB. (https://github.com/MerlionRock/RealAndroidBot/releases/download/v1.2.3/RAB_123_FULL.zip)
+15. Extract the zip file.
+16. Go on RAB's discord. (https://discord.gg/Xw2DKBhRJu)
+17. Go on #roles then type !register tester.
+18. You will get 3 new chanel
