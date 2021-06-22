@@ -32,4 +32,7 @@ RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use
 15. Extract the zip file.
 16. Go on RAB's discord. (https://discord.gg/Xw2DKBhRJu)
 17. Go on #roles then type !register tester.
-18. You will get 3 new chanel
+18. You will get 3 new chanel: go on #aplha-dev-download.
+19. Download the newest version.
+20. Extract the zip to the RAB directory.
+21. Then start RAB, it will downloading stuff, then it's going to work.
