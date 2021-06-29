@@ -1,5 +1,5 @@
 # ATTENTION!!!!! READ BELLOW!
-RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use with emulators (bluestacks,ldplayer,etc)
+RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use with emulators (bluestacks,ldplayer,etc).
 You need a 64 bit windows for the bot!
 
 
