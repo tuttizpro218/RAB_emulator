@@ -1,5 +1,6 @@
 # ATTENTION!!!!! READ BELLOW!
 RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use with emulators (bluestacks,ldplayer,etc)
+You need a 64 bit windows for the bot!
 
 
 
@@ -28,7 +29,7 @@ RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use
 13. You need to press on My games and you will see this:
 ![Screenshot](https://i.imgur.com/ZRXv93q.png)
 14. Start Pokemon GO and login to your account. (LOGIN WITH GOOGLE IS NOT WORKING!)
-14. You need to download RAB. (https://github.com/MerlionRock/RealAndroidBot/releases/download/v1.2.3/RAB_123_FULL.zip)
+14. You need to download RAB. (https://github.com/MerlionRock/RealAndroidBot/releases/download/v1.3.1/RAB_131_FULL.zip)
 15. Extract the zip file.
 16. Go on RAB's discord. (https://discord.gg/Xw2DKBhRJu)
 17. Go on #roles then type !register tester.
