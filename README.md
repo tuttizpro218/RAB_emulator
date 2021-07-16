@@ -2,7 +2,7 @@
 RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use with emulators (bluestacks,ldplayer,etc).
 You need a 64 bit windows for the bot!
 
-Sometimes Pokemongo INSTANTLY CRASH WHEN YOU START! Just go to the app settings and clead Chache, i have this bug too...
+Sometimes Pokemongo INSTANTLY CRASH WHEN YOU START! Just go to the app settings and clear Chache, i have this bug too...
 
 
 
