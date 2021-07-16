@@ -2,6 +2,8 @@
 RAB (RealAndroidBot) made for PHONE users, not for emulator, but yes you can use with emulators (bluestacks,ldplayer,etc).
 You need a 64 bit windows for the bot!
 
+Sometimes Pokemongo INSTANTLY CRASH WHEN YOU START! Just go to the app settings and clead Chache, i have this bug too...
+
 
 
 # What you need to start using RAB with emulator
@@ -29,11 +31,20 @@ You need a 64 bit windows for the bot!
 13. You need to press on My games and you will see this:
 ![Screenshot](https://i.imgur.com/ZRXv93q.png)
 14. Start Pokemon GO and login to your account. (LOGIN WITH GOOGLE IS NOT WORKING!)
-14. You need to download RAB. (https://github.com/MerlionRock/RealAndroidBot/releases/download/v1.3.1/RAB_131_FULL.zip)
+14. You need to download RAB. (https://github.com/MerlionRock/RealAndroidBot/releases/download/v1.5.0/RAB_150_FULL.zip)
 15. Extract the zip file.
-16. Go on RAB's discord. (https://discord.gg/Xw2DKBhRJu)
+--------------------------------------------------------------- THIS STEPS IS JUST FOR THOSE PEOPLE WHO WANT TO TEST FEATURE STUFF, IF RAB PUSH A NEW VERSION LIKE 1.5 -> 1.6
+16. Go on RAB's discord. (https://discord.gg/Xw2DKBhRJu)        YOU DON'T NEED THIS STEP, THANK YOU.
 17. Go on #roles then type !register tester.
 18. You will get 3 new chanel: go on #aplha-dev-download.
-19. Download the newest version.
+29. Download the newest version.
+---------------------------------------------------------------
 20. Extract the zip to the RAB directory.
-21. Then start RAB, it will downloading stuff, then it's going to work.
+21. If you already logged in Pokemon Go please set the option like this for avoiding the ban!
+22. Press on the yellow star icon.
+23. ![Screenshot](https://i.imgur.com/vVAzRYH.png)
+24. Press on settings.
+25. ![Screenshot](https://i.imgur.com/wM9Qtmg.png)
+26. And copy this settings:
+27. ![Screenshot](https://i.imgur.com/gqaVXdk.png)
+28. And hopefully you good to go.. If you have any problem try to use #emulator/#help, if you can't find the problem then ask it, you just need to scroll up. Thanks.
