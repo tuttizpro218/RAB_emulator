@@ -33,8 +33,7 @@ Sometimes PokemonGO INSTANTLY CRASHES WHEN YOU START! To fix it, just go to the 
 25. Start PokemonGO and login to your account. (LOGIN WITH GOOGLE IS NOT WORKING!)
 26. You need to download RAB. (https://github.com/MerlionRock/RealAndroidBot/releases/download/v1.5.0/RAB_150_FULL.zip)
 27. Extract the zip file.
-28. --------------------------------------------------------------- 
-   THESE STEPS ARE ONLY FOR THOSE PEOPLE WHO WANT TO TEST SOME FEATURE STUFF, IF RAB PUSHES YOU TO GET A NEW VERSION LIKE 1.5 -> 1.6 YOU DON'T NEED THIS STEP, THANK YOU.
+28. -----THESE STEPS ARE ONLY FOR THOSE PEOPLE WHO WANT TO TEST SOME FEATURE STUFF, IF RAB PUSHES YOU TO GET A NEW VERSION LIKE 1.5 -> 1.6 YOU DON'T NEED THIS STEP, THANK YOU.
 29. Go to RAB's discord. (https://discord.gg/Xw2DKBhRJu)        
 30. Go to #roles then type !register tester.
 31. You will get 3 new channels: go on #alpha-dev-download.
