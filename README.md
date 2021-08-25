@@ -2,8 +2,8 @@
 RAB (RealAndroidBot) is made for PHONE users, not dedicated for emulators, but you can also use it with emulators too (bluestacks, ldplayer, etc).
 First of all, you need a 64 bit version of Windows for the bot!
 
-Sometimes PokemonGO INSTANTLY CRASHES WHEN YOU START! To fix it there is the fix: https://youtu.be/c6_PjrrOF7w.
-It's needed root! (no you can't use pokemod or any method to play with rab only pgsharp) : https://www.youtube.com/watch?v=lPU9oVrM0WQ
+Sometimes PokemonGO INSTANTLY CRASHES WHEN YOU START! To fix it there is the fix: https://youtu.be/c6_PjrrOF7w ,
+it's needed root! (no you can't use pokemod or any method to play with rab only pgsharp) : https://www.youtube.com/watch?v=lPU9oVrM0WQ .
 
 
 
