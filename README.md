@@ -48,4 +48,4 @@ it's needed root! (no you can't use pokemod or any method to play with rab only 
 39. ![Screenshot](https://i.imgur.com/wM9Qtmg.png)
 40. And copy this settings:
 41. ![Screenshot](https://i.imgur.com/gqaVXdk.png)
-42. And if you did everything right, then hopefully you are good to go. If you have any problems try to use #emulator / #help. If you can't find the problem then ask for it, you just need to scroll up. Thanks.
+42. And if you did everything right, then hopefully you are good to go. If you have any problems try to use #emulator. If you can't find the problem then ask for it, you just need to scroll up. Thanks.
