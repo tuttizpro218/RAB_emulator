@@ -1,7 +1,8 @@
-# PokemonGo: RAB with Android-Emulator 
+### PokemonGo: RealAndroidBot with Android-Emulator on Windows
 
-#### RealAndroidBot with Android-Emulator on Windows
-#### for full usage!
+
+
+
 
 - Bluestacks 4-5 https://www.bluestacks.com/
 - LDPlayer https://ldplayer.net/
