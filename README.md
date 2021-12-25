@@ -1,4 +1,4 @@
-# RAB_emulator
+# PokemonGo: RAB with Android-Emulator 
 
 #### RealAndroidBot with Android-Emulator on Windows
 #### for full usage!
@@ -7,6 +7,7 @@
 - LDPlayer https://ldplayer.net/
 - MuMu https://www.mumuglobal.com/
 
-- [RAB](https://github.com/MerlionRock/RealAndroidBot
-) - RealAndroidBot
+
+- RAB https://github.com/MerlionRock/RealAndroidBot
+- RealAndroidBot
 
